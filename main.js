@@ -12,7 +12,7 @@
             i=i+2;
         
         }
-        for(var k=0; k<=100; k++){
+        for(var k=1; k<=100; k++){
             console.log(k);
             if((k % 3 === 0) && (k % 5 === 0)) {
                 console.log(f+b);
